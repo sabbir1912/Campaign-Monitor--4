@@ -1,0 +1,175 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+.hcontainer{
+    background-color: rgb(6, 102, 158);
+    overflow: hidden;
+    display: flex;
+}
+.headerimg{
+    text-align: center;
+    width: 30%;
+    padding: 15px;
+    padding-top: 28px;
+    
+}
+.headerimg img{
+    width: 100px;
+}
+.headertitle{
+    text-align: left;
+    width: 70%;
+    padding: 15px;
+    color: white;
+    font-size: 30px;
+    margin-top: 30px;
+}
+#acontainer{
+    width: 1300px;
+    margin-left: 100px;
+}
+#header{
+    overflow: hidden;
+    width: 100%;
+}
+#header img{
+    width: 100%;
+    margin-top: 70px;
+}
+#title{
+    width: 1000px;
+    margin-left: 160px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#title h2{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(6, 102, 158);
+
+}
+.singleproduct{
+    width: 380px;
+    float: left;
+    margin-right: 80px;
+    overflow: hidden;
+}
+.singleproduct:last-child{
+    margin-right: 0px;
+}
+.singleproduct img{
+    width: 100%;
+}
+.productdetails{
+    color: rgb(6, 102, 158);
+}
+.productdetails p{
+    text-align: left;
+    padding: 50px 0px;
+    font-size: 30px;
+}
+.readmorebtn{
+    font-size: 30px;
+    border: 5px solid rgb(6, 102, 158);
+    border-radius: 10px;
+    background-color: rgb(6, 102, 158);
+    color: white;
+    margin-bottom: 60px;
+} 
+#midtitle h2{
+    font-size: 50px;
+    margin-left: 40px;
+}
+#midtitle p{
+    font-size: 25px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+}
+#midtitle2 h2{
+    font-size: 50px;
+    text-align: center;
+    color: rgb(6, 102, 158);
+    margin-bottom: 40px;
+}
+#newtitle{
+    overflow: hidden;
+}
+.container{
+    width: 1300px;
+    margin-bottom: 50px;
+    display: flex;
+}
+.titleimg{
+    width: 545px;
+    text-align: left;
+    overflow: hidden;
+    margin-right: 20px;
+}
+.titleimg img{
+    width: 100%;
+}
+.taitletaitle{
+    width: 520px;
+    text-align: left;
+    overflow: hidden;
+    margin-left: 25px;
+    margin-top: 132px;
+}
+.taitletaitle h2{
+    font-size: 40px;
+    font-weight: bold;
+    margin: 0;
+}
+.taitletaitle p{
+    font-size: 30px;
+    font-weight: bold;
+    margin: 5px 0;
+    color: #333;
+}
+.readmorebtn{
+    width: 300px;
+    background-color: rgb(6, 102, 158);
+    border: none;
+    border-radius: 15px;
+    margin: 15px 0;
+}
+.readmorebtn h3{
+    font-weight: bold;
+    font-size: 30px;
+}
+#footer{
+    background: rgb(6, 102, 158);
+    overflow: hidden;
+    width: 100%;
+}
+#footer h4{
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    padding-top: 50px;
+}
+#footer ul{
+    margin-left: 530px;
+    text-decoration: none;
+    margin-top: 30px;
+}
+#footer ul li{
+    float: left;
+    text-decoration: none;
+    margin-right: 50px;
+    list-style: none;
+    margin-bottom: 40px;
+}
+.container ul{
+    margin-left: 330px;
+}
+.container ul li{
+    width: 130px;
+    float: left;
+    margin: 40px 20px;
+    list-style: none;
+}
+.footerdoun{
+    font-size: 20px;
+}
